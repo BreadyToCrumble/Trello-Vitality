@@ -1,7 +1,7 @@
 {
   "name": "aigio-vitality",
   "version": "1.0.0",
-  "description": "Makes backups of the crucial Aigio Trello boards.",
+  "description": "Makes backups of the crucial Trello boards.",
   "main": "main.js",
   "dependencies": {
     "bottleneck": "^1.16.0",
