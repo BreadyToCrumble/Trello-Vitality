@@ -1,0 +1,19 @@
+{
+  "name": "aigio-vitality",
+  "version": "1.0.0",
+  "description": "Makes backups of the crucial Aigio Trello boards.",
+  "main": "main.js",
+  "dependencies": {
+    "bottleneck": "^1.16.0",
+    "cron": "^1.3.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2",
+    "throttled-queue": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "t"
+  },
+  "author": "BreadyToCrumble",
+  "license": "MIT"
+}
