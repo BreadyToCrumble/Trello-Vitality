@@ -1,5 +1,6 @@
 # Trello-Vitality
 This is a bot you can run on a server (I use a heroku dyno) that backs up Trello boards. 
+It backs up boards at regular intervals given by the cron statement.
 It will back up every board on the account of the key and token given. 
 The key and token must have both read and write permissions.
 
