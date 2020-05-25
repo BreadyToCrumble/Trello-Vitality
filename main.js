@@ -102,7 +102,7 @@ async function func() {
 			
 			// Goes through each existing list and copies it; allows for copying of things such as card comments, actions, etc.
 			listsToCopy.forEach(async function(list, i1, l) {
-				wait(1)
+				//await wait(1)
 				limiter.schedule(async function() {
 					
 					
